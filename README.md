@@ -1,8 +1,14 @@
-# Agnes
+# Autonomous Integrated Farming System
 
-A landing page template.
+Demo project
+
+by Daniel Nkemakolam
 
 * [Getting started](#getting-started)
+
+Login details:
+username: farm@gnail.com
+password: farmfarm
 
 ## Getting started
 * First, ensure that node.js & npm are both installed. If not, choose your OS and installation method from [this page](https://nodejs.org/en/download/package-manager/) and follow the instructions.
